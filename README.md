@@ -1,2 +1,3 @@
 # java-poo-exercices
-Exercices de Java POO,- module IPI
+Exercices de Java POO,- Module IPI
+ANCELIN Maxime
